@@ -2,7 +2,8 @@
 NGINX
 
 # Overview
-A proxy pass that redirects all requests to api to the json api
+
+A proxy pass that redirects all requests to `/api` to the json api
 
 # Core Features
 
